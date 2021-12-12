@@ -1,7 +1,21 @@
 <resources>
-    <string name="app_name">projet_android</string>
+    <string name="app_name" translatable="false">projet_android</string>
     <string name="aller_ver_la_fonctionnalit_3">Aller vers la fonctionnalité 3</string>
     <string name="aller_ver_la_fonctionnalit_2">Aller vers la fonctionnalité 2</string>
-    <string name="nom">Mazouz Yanis</string>
-    <string name="version">version</string>
+    <string name="nom" translatable="false">Mazouz Yanis</string>
+    <string name="version" translatable="false">version</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="so_basically_it_s_like_a">SO, BASICALLY, IT\'S LIKE A</string>
+    <string name="wait_what_does_your_startup_do" >WAIT, WHAT DOES YOUR STARTUP DO?</string>
+    <string name="pour" >FOR</string>
+    <string name="ajouter_un_panda">Ajouter un panda</string>
+    <string name="ajouter_une_description_d_entreprise">ajouter une description d\'entreprise</string>
+    <string name="api_1">API 1</string>
+    <string name="api_2">API 2</string>
+    <string name="tout_supprimer">Tout supprimer</string>
+    <string name="s_enregistrer">S\'enregistrer</string>
+    <string name="se_d_connecter">Se déconnecter</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="email">Email</string>
 </resources>

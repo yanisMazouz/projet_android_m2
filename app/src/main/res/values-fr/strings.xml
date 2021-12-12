@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">projet_android</string>
+    <string name="aller_ver_la_fonctionnalit_3">Aller vers la fonctionnalité 3</string>
+    <string name="aller_ver_la_fonctionnalit_2">Aller vers la fonctionnalité 2</string>
+    <string name="so_basically_it_s_like_a">Pour simplifier, ç\'est comme un(e)</string>
+    <string name="wait_what_does_your_startup_do">Attend, elle fait quoi ton entreprise ?</string>
+    <string name="pour">pour</string>
+</resources>

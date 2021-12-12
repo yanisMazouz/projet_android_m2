@@ -3,9 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/yanis/AndroidStudioProjects/projet_android/app/src/main/res/drawable-v24/ic_launcher.xml" value="0.3625" />
+        <entry key="..\:/Users/yanis/AndroidStudioProjects/projet_android/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.3625" />
         <entry key="..\:/Users/yanis/AndroidStudioProjects/projet_android/app/src/main/res/layout-land/activity_fonctionnalite1.xml" value="0.264" />
         <entry key="..\:/Users/yanis/AndroidStudioProjects/projet_android/app/src/main/res/layout/activity_fonctionnalite1.xml" value="0.264" />
+        <entry key="..\:/Users/yanis/AndroidStudioProjects/projet_android/app/src/main/res/layout/activity_fonctionnalite2.xml" value="0.45650140318054255" />
+        <entry key="..\:/Users/yanis/AndroidStudioProjects/projet_android/app/src/main/res/layout/activity_fonctionnalite3.xml" value="0.2" />
         <entry key="..\:/Users/yanis/AndroidStudioProjects/projet_android/app/src/main/res/layout/activity_main.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/yanis/AndroidStudioProjects/projet_android/app/src/main/res/layout/item_Panda.xml" value="0.4" />
+        <entry key="..\:/Users/yanis/AndroidStudioProjects/projet_android/app/src/main/res/layout/item_header.xml" value="0.4" />
+        <entry key="..\:/Users/yanis/AndroidStudioProjects/projet_android/app/src/main/res/layout/item_panda.xml" value="0.536" />
+        <entry key="..\:/Users/yanis/AndroidStudioProjects/projet_android/app/src/main/res/layout/item_this_that.xml" value="0.536" />
       </map>
     </option>
   </component>
