@@ -18,7 +18,7 @@ class Fonctionnalite1Activity : AppCompatActivity() {
         binding = ActivityFonctionnalite1Binding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.versionNumero!!.text = viewModel.mApplicationVersion.toString()
+        binding.versionNumero.text = viewModel.mApplicationVersion.toString()
         binding.buttonFonctionnalite2.setOnClickListener{goToActivity2()}
         binding.buttonFonctionnalite3.setOnClickListener{goToActivity3()}
     }

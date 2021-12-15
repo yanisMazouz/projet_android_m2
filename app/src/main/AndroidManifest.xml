@@ -20,10 +20,13 @@
         </service>
         <activity
             android:name=".view.Fonctionnalite3Activity"
-            android:exported="true" />
+            android:exported="true"
+            android:parentActivityName=".view.Fonctionnalite1Activity"/>
+
         <activity
             android:name=".view.Fonctionnalite2Activity"
-            android:exported="true" />
+            android:exported="true"
+            android:parentActivityName=".view.Fonctionnalite1Activity"/>
         <activity
             android:name=".view.Fonctionnalite1Activity"
             android:exported="true">
